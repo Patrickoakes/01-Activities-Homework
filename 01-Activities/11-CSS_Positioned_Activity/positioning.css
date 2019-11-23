@@ -1,0 +1,50 @@
+/**
+ * Static: Default positioning
+ **/
+body { 
+    background: white;
+}
+.box-3 { 
+    position: fixed;
+    height: 50px;
+    width: 50px;
+}
+   
+section {
+    height: 75vh; 
+    width: 50vh;
+    margin: auto;
+}
+
+
+
+.box-set {
+   color: black;
+   text-align: center;
+  
+   
+  }
+  
+  .box-1 {
+    width: 100%;
+    height: 150px;
+    background: #eee;
+    margin: 0;
+    padding-top: 20px;
+    }
+
+    .box-2 {
+        background: #999;
+        height: 15px;
+        width: 30px;
+    }
+
+    
+    
+    footer{
+       
+        width: 50vh;
+        margin: auto;
+ }
+
+  

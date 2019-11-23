@@ -1,6 +1,4 @@
-/**
- * Static: Default positioning
- **/
+
 body { 
     background: black;
  
@@ -50,8 +48,7 @@ p{
 .box-set {
    color: black;
    text-align: center;
-   font-size: larger ;
-   margin-top: 20px;
+   font-size: larger;
    display: inline;
   
    

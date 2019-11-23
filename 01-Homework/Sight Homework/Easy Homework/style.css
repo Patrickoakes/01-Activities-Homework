@@ -1,0 +1,72 @@
+body { 
+    background-color: grey; 
+    color: grey;
+}
+
+Header {
+    height: 100px;
+    Margin-bottom: 10px;
+    background: white;
+    width: 1000px;
+        text-align: center;
+        margin-left: 25%;
+
+  }
+
+  Nav { 
+      height: 100px;
+      background: white;
+      margin-bottom: 10px;
+      width: 1000px;
+        text-align: center;
+        margin-left: 25%;
+    }
+
+    .container {
+        width: 1000px;
+        text-align: center;
+        margin-left: 25%;
+        
+    }
+
+.box  {
+ height: 350px;
+}
+
+.box-1{ 
+width: 65%;
+float: left;
+background: white;
+   }
+
+.box-2 {
+display: none
+
+}
+
+.box-3{
+display: none;
+
+}
+.box-4 {
+    display: none;
+}
+
+aside { 
+    width: 34%;
+    float: right;
+    background: white;
+    height: 350px;
+}
+
+footer { 
+    margin-top: 370px;
+    height: 100px;
+    background: white;
+    width: 1000px;
+    text-align: center;
+    margin-left: 25%;
+}
+
+
+

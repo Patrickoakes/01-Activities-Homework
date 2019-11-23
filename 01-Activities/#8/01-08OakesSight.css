@@ -1,0 +1,31 @@
+body {
+    background: white;
+    font-size: 20px;
+    }
+
+.container {
+    background: rgb(67, 112, 236);
+    color: white;
+    width: 900px;
+    height: 600px;
+    margin-left: 500px;
+    margin-top: 50px;
+}   
+
+header {
+    height: 100px; 
+    padding: 10px;
+}
+
+aside { 
+    height: 350px;
+    float: left 30%; 
+    padding: 10px;
+}
+
+main {
+    height: 350px;
+    float: left 50%;
+    padding: 10px;
+}
+    

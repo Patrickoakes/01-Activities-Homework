@@ -1,0 +1,49 @@
+*, *.clearfix::after{
+    box-sizing: border-box;
+  }
+
+
+.container {
+    background: rgb(67, 112, 236);
+    color: white;
+    width: 1000px;
+    margin: 0 auto;
+    margin-left: 500px;
+    margin-top: 50px;
+    font-size: 20px;
+}   
+
+header {
+    height: 100px; 
+    padding: 10px;
+    border: 1px solid white;
+}
+
+.clearfix::after {
+    content: " ";
+    display: block;
+    clear: both;
+  }
+
+aside { 
+    height: 400px;
+    width: 300px;
+    float: left; 
+    padding: 10px;
+    border: 1px solid white;
+}
+
+main {
+    height: 400px;
+    width: 700px;
+    float: left;
+    padding: 10px;
+    border: 1px solid white;
+}
+
+footer {
+        width: 1000px;
+        height: 100px;
+        padding: 10px;
+        border: 1px solid white;
+}

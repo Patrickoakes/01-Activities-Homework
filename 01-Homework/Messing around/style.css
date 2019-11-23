@@ -1,0 +1,85 @@
+body { 
+    background-color: grey; 
+    color: grey;
+}
+
+Header {
+    height: 100px;
+    Margin-bottom: 10px;
+    background: white;
+    width: 1000px;
+        text-align: center;
+        margin-left: 25%;
+
+  }
+
+  Nav { 
+      height: 100px;
+      background: white;
+      margin-bottom: 10px;
+      width: 1000px;
+        text-align: center;
+        margin-left: 25%;
+    }
+
+    .container {
+        width:650px;
+        margin-left: 25%;
+        height: 350px;
+        /*background: white;*/
+        
+       
+    }
+
+.box-1{ 
+    height: 85px;
+text-align: center;
+background: white;
+   }
+
+.box-2 {
+    height: 60px;
+background: grey;
+color: white;
+text-align: center;
+
+}
+
+.box-3{
+background: white;
+text-align: center;
+height: 50px;
+margin-bottom: 3px;
+margin-right: 25px;
+margin-left: 25px;
+
+}
+.box-4 {
+    background: white;
+    text-align: center;
+    height: 50px;
+    margin-top: 10px;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+aside { 
+    width: 335px;
+  background: white;
+  float: right;
+    height: 325px;
+    margin-top: -350px;
+    margin-right: 427px;
+}
+
+footer { 
+    margin-top: -5px;
+    height: 100px;
+    background: white;
+    width: 1000px;
+    text-align: center;
+    margin-left: 25%;
+}
+
+
+

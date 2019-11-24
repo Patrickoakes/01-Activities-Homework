@@ -1,15 +1,19 @@
 body { 
     background-color: grey; 
     color: grey;
-}
+    margin-left: 25%;
+    font-size: large;
+   
 
+}
 Header {
     height: 100px;
     Margin-bottom: 10px;
     background: white;
     width: 1000px;
         text-align: center;
-        margin-left: 25%;
+        font-size: large;
+        
 
   }
 
@@ -19,15 +23,13 @@ Header {
       margin-bottom: 10px;
       width: 1000px;
         text-align: center;
-        margin-left: 25%;
+         
     }
 
     .container {
         width: 1000px;
         text-align: center;
-        margin-left: 25%;
-        
-    }
+          }
 
 .box  {
  height: 350px;
@@ -40,16 +42,41 @@ background: white;
    }
 
 .box-2 {
-display: none
-
+position: absolute;
+background-color: grey; 
+height: 200px;
+width: 500px;
+color: white;
+z-index: 1;
+padding-top: 25px;
+left: 560px;
+bottom: 375px;
 }
 
 .box-3{
-display: none;
+    position: absolute;
+    background-color: white; 
+    height: 50px;
+    width: 420px;
+    color: grey;
+    z-index: 2;
+    padding-top: 8px;
+    left: 600px;
+    bottom: 480px;
+    font-size: x-large;
 
 }
 .box-4 {
-    display: none;
+
+   position: absolute;
+    background-color: white; 
+    height: 50px;
+    width: 425px;
+    color: grey;
+    z-index: 3;
+    padding-top: 8px;
+    left: 600px;
+    bottom: 410px;
 }
 
 aside { 
@@ -65,7 +92,7 @@ footer {
     background: white;
     width: 1000px;
     text-align: center;
-    margin-left: 25%;
+      
 }
 
 
